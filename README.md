@@ -1,7 +1,7 @@
 add_custom_command add_custom_target full example
 =================================================
 
-This provides a full example on how to use cmake's add_custom_command add_custom_target.
+This provides a full example on how to use cmake's add_custom_command and add_custom_target.
 
 **Usage**
 - clone the repository
