@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.0)
+cmake_minimum_required(VERSION 2.4)
 
 SET (INPUT_TEMPLATE "input.tmpl")
 SET (OUTPUT_SOURCE "output.cpp")
