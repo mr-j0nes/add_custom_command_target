@@ -5,7 +5,7 @@ This provides a full example on how to use cmake's add_custom_command add_custom
 
 **Usage**
 - clone the repository
-- "cd add_custom_command_target"
+- cd add_custom_command_target
 - mkdir build; cd build
 - cmake ..
 - make (Here you see the comment "Generating ../output.cpp"
